@@ -1,4 +1,4 @@
-# Deployez-un-modele-dans-le-cloud
+# Deployez un modèle dans le cloud
 ## Projet du parcours DataScientist d'OpenClassrooms
 **Contexte**
 
