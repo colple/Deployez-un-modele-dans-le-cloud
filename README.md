@@ -34,6 +34,7 @@ Les données sont issues de Kaggle et sont disponibles à l'adresse suivante: ht
 4. Le notebook de test local réalisé sur Google Collab puis exporté sous format .ipynb: notebook_4_test_local.ipynb
 5. Le fichier de boostrap: bootstrap-emr.sh
 6. Le logo de la société sous format png
+7. Le dossier Fruits_Cloud contenant 10 images pour 10 fruits/légumes différents
 
 ## Auteur
 **colple** *(Coline Plé)*
