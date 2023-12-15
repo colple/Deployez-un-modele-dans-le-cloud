@@ -1,6 +1,7 @@
 # Déployez un modèle dans le cloud
-## Projet du parcours DataScientist d'OpenClassrooms
-**Contexte**
+
+## Contexte
+
 
 Vous êtes Data Scientist dans une très jeune start-up de l'AgriTech, nommée  "Fruits!", qui cherche à proposer des solutions innovantes pour la récolte des fruits. La volonté de l’entreprise est de préserver la biodiversité des fruits en permettant des traitements spécifiques pour chaque espèce de fruits en développant des robots cueilleurs intelligents.
 
@@ -28,7 +29,8 @@ Les données sont issues de Kaggle et sont disponibles à l'adresse suivante: ht
 2. Le fichier de résultats sous format csv: resultats_2.csv
 3. La présentation du projet sous format pdf: presentation_3.pdf
 4. Le notebook de test local réalisé sur Google Collab puis exporté sous format .ipynb: notebook_4_test_local.ipynb
-5. Le fichier de boostrap: bootstrap-emr.sh  
+5. Le fichier de boostrap: bootstrap-emr.sh
+6. Le logo de la société sous format png.
 
 ## Auteur
 **colple** *(Coline Plé)*
