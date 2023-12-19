@@ -1,5 +1,7 @@
 # DEPLOYER UN MODELE DANS LE CLOUD
 
+## Sixième et dernier projet de ma formation de Data Scientist
+
 ## Contexte
 
 <p align="center">
@@ -28,14 +30,19 @@ Les données sont issues de Kaggle et sont disponibles à l'adresse suivante: ht
 **EN RESUME**: Mettre en place les premières briques nécessaires de traitement permettant le passage à l’échelle en termes de volume de données !
 
 ## Contenu de ce dépôt
-1. Le Jupyter notebook réalisé sur AWS *via* JupyterHub: notebook_1_cloud.ipynb
-2. Le fichier de résultats sous format csv: resultats_2.csv
-3. La présentation du projet sous format pdf: presentation_3.pdf
-4. Le notebook de test local réalisé sur Google Collab puis exporté sous format .ipynb: notebook_4_test_local.ipynb
-5. Le fichier de boostrap: bootstrap-emr.sh
-6. Le logo de la société sous format png
-7. Le dossier Fruits_Cloud contenant 10 images pour 10 fruits/légumes différents
-8. Le local_requirements.txt
+1. Le Jupyter notebook réalisé sur AWS *via* JupyterHub: notebook_1_cloud.ipynb.
+2. Le fichier de résultats sous format csv: resultats_2.csv.
+3. La présentation du projet sous format pdf: presentation_3.pdf.
+4. Le notebook de test local réalisé sur Google Collab puis exporté sous format .ipynb: notebook_4_test_local.ipynb.
+5. Le fichier de boostrap: bootstrap-emr.sh.
+6. Le logo de la société sous format png.
+7. Le dossier Fruits_Cloud contenant 10 images pour 10 fruits/légumes différents.
+8. Le local_requirements.txt.
 
+## Notions acquises
+1. Utilisation du cloud de AWS pour la manipulation des données dans un environnement Big Data.
+2. Identification de l'architecture de aws permettant de mettre en place un environnement Big Data.
+3. Découverte et initiation à PySpark permettant de gérer de gros volumes de données et de paralléliser les opérations de calcul.
+   
 ## Auteur
 **colple** *(Coline Plé)*
