@@ -45,4 +45,4 @@ Les données sont issues de Kaggle et sont disponibles à l'adresse suivante: ht
 3. Découverte et initiation à PySpark permettant de gérer de gros volumes de données et de paralléliser les opérations de calcul.
    
 ## Auteur
-**colple** *(Coline Plé)*
+**Coline Plé**
